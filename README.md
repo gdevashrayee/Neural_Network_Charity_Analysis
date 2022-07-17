@@ -42,7 +42,7 @@ The steps taken to try and increase model performance
 
 ![XY](images/img_5.png)
 
-![XZ](imges/img_6.png)
+![XZ](images/img_6.png)
 
 - Attempt 3: Changing activation function of output layer from "sigmoid" to "tanh." The accuracy of the model went down even more to 47%.
 
