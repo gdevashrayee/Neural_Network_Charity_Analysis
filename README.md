@@ -40,15 +40,15 @@ The steps taken to try and increase model performance
 
 -  Attempt 2: Adding Additional neurons to hidden layers and additional hidden layers are added. The accuracy went down again, this time it was 55%.
 
-![XY](images/img_5.PNG)
+![XY](images/img_5.png)
 
-![XZ](imges/img_6.PNG)
+![XZ](imges/img_6.png)
 
 - Attempt 3: Changing activation function of output layer from "sigmoid" to "tanh." The accuracy of the model went down even more to 47%.
 
-![A](images/img_7.PNG)
+![A](images/img_7.png)
 
-![B](images/img_8.PNG)
+![B](images/img_8.png)
 
 
 ## Summary 
